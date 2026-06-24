@@ -1,4 +1,4 @@
-import tkinter as tk
+himport tkinter as tk
 from tkinter import scrolledtext, filedialog
 from datetime import datetime
 
